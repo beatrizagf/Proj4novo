@@ -1,0 +1,60 @@
+{
+	"root":
+		{
+			"classId": 0,
+			"KnowledgeBase":
+				{
+					"Perspective": "Paul",
+					"Knowledge":
+						{
+							"SELF":
+								{
+									"DialogueState(Player)": "Start, 1",
+									"Has(Floor)": "Paul, 1",
+									"IsBrother(Player)": "True, 1",
+									"Likes(Funny)": "True, 1",
+									"Likes(Paul, Player)": "True, 1"
+								},
+							"SELF(Player)":
+								{
+									"Likes(Player, Paul)": "True, 1"
+								}
+						}
+				},
+			"BodyName": null,
+			"VoiceName": "Male3D",
+			"EmotionalAppraisalAssetSource": "SimpleEA.ea",
+			"EmotionalDecisionMakingSource": "AgentA.edm",
+			"SocialImportanceAssetSource": "teste.si",
+			"CommeillFautAssetSource": null,
+			"EmotionalState":
+				{
+					"Mood": 6,
+					"initialTick": 0,
+					"EmotionalPool": [],
+					"AppraisalConfiguration":
+						{
+							"HalfLifeDecayConstant": 0.5,
+							"EmotionInfluenceOnMoodFactor": 0.3,
+							"MoodInfluenceOnEmotionFactor": 0.3,
+							"MinimumMoodValueForInfluencingEmotions": 0.5,
+							"EmotionalHalfLifeDecayTime": 15,
+							"MoodHalfLifeDecayTime": 60
+						}
+				},
+			"AutobiographicMemory":
+				{
+					"Tick": 0,
+					"records": []
+				},
+			"OtherAgents":
+				{
+					"dictionary": []
+				}
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "RolePlayCharacter.RolePlayCharacterAsset, RolePlayCharacter, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}

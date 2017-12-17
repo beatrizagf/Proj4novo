@@ -1,0 +1,245 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8330 (ID=0x9832)
+    Vendor:   ATI
+    VRAM:     2400 MB
+    Driver:   22.19.163.2560
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ActionLibrary.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\AutobiographicMemory.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\CommeillFaut.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Conditions.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalAppraisal.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\EmotionalDecisionMaking.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Rage.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\GAIPS.Serialization.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\IntegratedAuthoringTool.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\KnowledgeBase.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RageAssetManager.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\RolePlayCharacter.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\SocialImportanceAsset.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Utilities.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\WellFormedNames.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.113 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.186510 ms
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\Mono.Security.dll (this message is harmless)
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 1 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 2 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EmotionalAppraisalAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 3 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 4 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5dec -> priority: 1 
+  Thread -> id: 6034 -> priority: 1 
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Bea\2o ano\IAJ\Projectos\Proj4\Project4\FAtiMA One Character Demo\FAtiMA One Character Demo_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.548726 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 2.743996 ms (FindLiveObjects: 0.114903 ms CreateObjectMapping: 0.036933 ms MarkObjects: 2.546335 ms  DeleteObjects: 0.043088 ms)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 5 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 6 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EmotionalAppraisalAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 7 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 8 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.062784 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 4.198068 ms (FindLiveObjects: 0.112167 ms CreateObjectMapping: 0.036249 ms MarkObjects: 4.013402 ms  DeleteObjects: 0.032829 ms)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 9 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset EmotionalAppraisalAsset/EmotionalAppraisalAsset as EmotionalAppraisalAsset_9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 10 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EmotionalAppraisalAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset SocialImportanceAsset/SocialImportanceAsset as SocialImportanceAsset_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 11 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SocialImportanceAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering Asset CommeillFautAsset/CommeillFautAsset as CommeillFautAsset_11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registered 12 Asset(s)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CommeillFautAsset VersionInfo is missing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

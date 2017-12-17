@@ -1,0 +1,63 @@
+{
+	"root":
+		{
+			"classId": 0,
+			"ScenarioName": "HelloWorld",
+			"Description": "",
+			"CharacterSources": ["Mary.rpc", "Player.rpc"],
+			"Dialogues": [
+				{
+					"CurrentState": "Start",
+					"NextState": "S2",
+					"Meaning": "-",
+					"Style": "BadMood",
+					"Utterance": "Buh!",
+					"UtteranceId": "TTS-3F8481E8B2BED8702AB6871D5B47E0F9"
+				}, 
+				{
+					"CurrentState": "S3",
+					"NextState": "End",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Bye!",
+					"UtteranceId": "TTS-C413C15C6945A51F6D8872802ABA7B26"
+				}, 
+				{
+					"CurrentState": "S2",
+					"NextState": "S3",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Estás um bocado pálido... Sentes-te bem?",
+					"UtteranceId": "TTS-33A616F98FAE27D99782E9705602DAE1"
+				}, 
+				{
+					"CurrentState": "S2",
+					"NextState": "S3",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Tens uma grande nódoa, ó Zé lençóis, esqueceste-te da lixívia? ",
+					"UtteranceId": "TTS-534BAEECA3049A465FA65371D419237F"
+				}, 
+				{
+					"CurrentState": "S2",
+					"NextState": "S3",
+					"Meaning": "-",
+					"Style": "Funny",
+					"Utterance": "Ai, que susto!",
+					"UtteranceId": "TTS-2962B6831C06BC9EE2A9690A491759B6"
+				}, 
+				{
+					"CurrentState": "Start",
+					"NextState": "S2",
+					"Meaning": "-",
+					"Style": "-",
+					"Utterance": "Olá!",
+					"UtteranceId": "TTS-267D9C3C7A283518260BF3F1CCC0FE04"
+				}]
+		},
+	"types": [
+		{
+			"TypeId": 0,
+			"ClassName": "IntegratedAuthoringTool.IntegratedAuthoringToolAsset, IntegratedAuthoringTool, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null"
+		}]
+}
