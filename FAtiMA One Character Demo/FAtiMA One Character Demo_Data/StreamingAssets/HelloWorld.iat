@@ -7,28 +7,28 @@
 			"CharacterSources": ["Mary.rpc", "Player.rpc"],
 			"Dialogues": [
 				{
-					"CurrentState": "S2",
-					"NextState": "S3",
+					"CurrentState": "S6",
+					"NextState": "S7",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Ai, que susto!",
-					"UtteranceId": "TTS-2962B6831C06BC9EE2A9690A491759B6"
+					"Style": "Insult",
+					"Utterance": "Eu matei-te? Já não me lembro, desculpa!",
+					"UtteranceId": "TTS-7577C80332FF70DBB3C755759E9FC0DE"
 				}, 
 				{
 					"CurrentState": "S3",
 					"NextState": "S4",
 					"Meaning": "-",
 					"Style": "-",
-					"Utterance": "Não estavas à espera, pois não? Sou mesmo bom!",
-					"UtteranceId": "TTS-5C15E794B56706DDC18A43B9BBBF32F5"
+					"Utterance": "Quando morreres e fores um fantasma também vais ser pálido.",
+					"UtteranceId": "TTS-C943605D097D8F01CE4290A87E6DEF4A"
 				}, 
 				{
-					"CurrentState": "S2",
-					"NextState": "S3",
+					"CurrentState": "S4",
+					"NextState": "S5",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Estás um bocado pálido... Sentes-te bem?",
-					"UtteranceId": "TTS-33A616F98FAE27D99782E9705602DAE1"
+					"Style": "Neutral",
+					"Utterance": "Então? Está tudo bem lá no além?",
+					"UtteranceId": "TTS-57FEC3E21F6A432256D32AB4C0688EF0"
 				}, 
 				{
 					"CurrentState": "Start",
@@ -43,46 +43,38 @@
 					"NextState": "S4",
 					"Meaning": "-",
 					"Style": "-",
-					"Utterance": "Raios, nunca consigo assustar ninguém...",
-					"UtteranceId": "TTS-C9F2923ED817A0F3529AA8BDF7C7BD95"
-				}, 
-				{
-					"CurrentState": "S3",
-					"NextState": "S4",
-					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Ufa, finalmente consegui assustar alguém!",
-					"UtteranceId": "TTS-204513A174AF46F03FB5617B00A8EAF8"
-				}, 
-				{
-					"CurrentState": "S3",
-					"NextState": "S4",
-					"Meaning": "-",
-					"Style": "-",
 					"Utterance": "Esqueci, senão podes crer que limpava a tua cara feia.",
 					"UtteranceId": "TTS-ECDA188B6D1868450D820779DA910335"
 				}, 
 				{
-					"CurrentState": "S2",
-					"NextState": "S3",
+					"CurrentState": "S5",
+					"NextState": "S6",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Tens uma grande nódoa, ó Zé Lençóis. Esqueceste-te da lixívia? ",
-					"UtteranceId": "TTS-639DB3B6574782DE22CF9F8C72352EE1"
+					"Style": "Insult",
+					"Utterance": "Está tudo bem... Mas estaria melhor se não me tivesses morto, palhaço!",
+					"UtteranceId": "TTS-58249F1DA431DFF49F3266E03DC79B11"
 				}, 
 				{
 					"CurrentState": "S3",
 					"NextState": "S4",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Mas estás-te a fazer corajoso, ó João Sem Medo?",
-					"UtteranceId": "TTS-CD1867CD9525BBC172DEA108D6EECA06"
+					"Style": "Happy",
+					"Utterance": "Ufa, finalmente consegui assustar alguém!",
+					"UtteranceId": "TTS-204513A174AF46F03FB5617B00A8EAF8"
+				}, 
+				{
+					"CurrentState": "S4",
+					"NextState": "S5",
+					"Meaning": "-",
+					"Style": "Insult",
+					"Utterance": "Estava a brincar, não metes medo nenhum.",
+					"UtteranceId": "TTS-086246E4133BE22A640CF91051F50C1D"
 				}, 
 				{
 					"CurrentState": "S3",
 					"NextState": "S4",
 					"Meaning": "-",
-					"Style": "-",
+					"Style": "Sad",
 					"Utterance": "Também não é preciso ofender...",
 					"UtteranceId": "TTS-BBA732D0684A5BC75E1DD0D83B5B74DC"
 				}, 
@@ -90,9 +82,17 @@
 					"CurrentState": "S3",
 					"NextState": "S4",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Quando morreres e fores um fantasma também vais ser pálido.",
-					"UtteranceId": "TTS-C943605D097D8F01CE4290A87E6DEF4A"
+					"Style": "Sad",
+					"Utterance": "Raios, nunca consigo assustar ninguém...",
+					"UtteranceId": "TTS-C9F2923ED817A0F3529AA8BDF7C7BD95"
+				}, 
+				{
+					"CurrentState": "S7",
+					"NextState": "S8",
+					"Meaning": "-",
+					"Style": "Angry",
+					"Utterance": "Ao menos não me roubavas os sapatos!",
+					"UtteranceId": "TTS-12B411B9163BCAB0F4277BC4CE1E7533"
 				}, 
 				{
 					"CurrentState": "S3",
@@ -103,26 +103,18 @@
 					"UtteranceId": "TTS-F7F475D0CCD59CD20DF3247200C98610"
 				}, 
 				{
-					"CurrentState": "S4",
-					"NextState": "S5",
+					"CurrentState": "S2",
+					"NextState": "S3",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Estava a brincar, nunca conheci um fantasma tão pavorosamente aterrador!",
-					"UtteranceId": "TTS-4F528DCD3FEC778BA334584157C2C430"
+					"Style": "Compliment",
+					"Utterance": "Ai, que susto!",
+					"UtteranceId": "TTS-2962B6831C06BC9EE2A9690A491759B6"
 				}, 
 				{
 					"CurrentState": "S4",
 					"NextState": "S5",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Estava a brincar, não metes medo nenhum.",
-					"UtteranceId": "TTS-086246E4133BE22A640CF91051F50C1D"
-				}, 
-				{
-					"CurrentState": "S4",
-					"NextState": "S5",
-					"Meaning": "-",
-					"Style": "-",
+					"Style": "Insult",
 					"Utterance": "E então lá no além? Os chuveiros lá no além não estão a funcionar, é?",
 					"UtteranceId": "TTS-FB362D8227CF30FCFA02646917333766"
 				}, 
@@ -130,49 +122,57 @@
 					"CurrentState": "S4",
 					"NextState": "S5",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Então? Está tudo bem lá no além?",
-					"UtteranceId": "TTS-57FEC3E21F6A432256D32AB4C0688EF0"
+					"Style": "Compliment",
+					"Utterance": "Estava a brincar, nunca conheci um fantasma tão pavorosamente aterrador!",
+					"UtteranceId": "TTS-4F528DCD3FEC778BA334584157C2C430"
+				}, 
+				{
+					"CurrentState": "S8",
+					"NextState": "S9",
+					"Meaning": "-",
+					"Style": "Insult",
+					"Utterance": "Vai mas é assustar espantalhos!",
+					"UtteranceId": "TTS-9BC9BE71AC7DB7A3DB04F3A0E52854D2"
 				}, 
 				{
 					"CurrentState": "S6",
 					"NextState": "S7",
 					"Meaning": "-",
-					"Style": "-",
+					"Style": "Neutral",
+					"Utterance": "Eh pá, tu andavas a dormir com a minha mulher.",
+					"UtteranceId": "TTS-CA2CB51178C4F442D60E0C93EE383947"
+				}, 
+				{
+					"CurrentState": "S6",
+					"NextState": "S7",
+					"Meaning": "-",
+					"Style": "Compliment",
 					"Utterance": "Foi um acidente terrível, lamento... Ia a escolher a música no telemóvel e não te vi.",
 					"UtteranceId": "TTS-C007811D0EB9EB68C5A1389C187EF010"
-				}, 
-				{
-					"CurrentState": "S6",
-					"NextState": "S7",
-					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Eu matei-te? Já não me lembro, desculpa!",
-					"UtteranceId": "TTS-7577C80332FF70DBB3C755759E9FC0DE"
-				}, 
-				{
-					"CurrentState": "S5",
-					"NextState": "S6",
-					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Está tudo bem... Mas estaria melhor se não me tivesses morto, palhaço!",
-					"UtteranceId": "TTS-58249F1DA431DFF49F3266E03DC79B11"
 				}, 
 				{
 					"CurrentState": "S7",
 					"NextState": "S8",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Que falta de chá!",
-					"UtteranceId": "TTS-7225A181E4F341EC7DD7FBD12066DA6D"
+					"Style": "Happy",
+					"Utterance": "Não te preocupes, não doeu muito. E aqui até se está bem.",
+					"UtteranceId": "TTS-95C811AFC751E4ADB13FB64F13E396CD"
 				}, 
 				{
-					"CurrentState": "S6",
-					"NextState": "S7",
+					"CurrentState": "S3",
+					"NextState": "S4",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Eh pá, tu andavas a dormir com a minha mulher.",
-					"UtteranceId": "TTS-CA2CB51178C4F442D60E0C93EE383947"
+					"Style": "Angry",
+					"Utterance": "Mas estás-te a fazer corajoso, ó João Sem Medo?",
+					"UtteranceId": "TTS-CD1867CD9525BBC172DEA108D6EECA06"
+				}, 
+				{
+					"CurrentState": "S2",
+					"NextState": "S3",
+					"Meaning": "-",
+					"Style": "Neutral",
+					"Utterance": "Estás um bocado pálido... Sentes-te bem?",
+					"UtteranceId": "TTS-33A616F98FAE27D99782E9705602DAE1"
 				}, 
 				{
 					"CurrentState": "S5",
@@ -186,39 +186,23 @@
 					"CurrentState": "S7",
 					"NextState": "S8",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Não te preocupes, não doeu muito. E aqui até se está bem.",
-					"UtteranceId": "TTS-95C811AFC751E4ADB13FB64F13E396CD"
+					"Style": "Sad",
+					"Utterance": "Que falta de chá!",
+					"UtteranceId": "TTS-7225A181E4F341EC7DD7FBD12066DA6D"
 				}, 
 				{
 					"CurrentState": "S7",
 					"NextState": "S8",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Ao menos não me roubavas os sapatos!",
-					"UtteranceId": "TTS-12B411B9163BCAB0F4277BC4CE1E7533"
-				}, 
-				{
-					"CurrentState": "S7",
-					"NextState": "S8",
-					"Meaning": "-",
-					"Style": "-",
+					"Style": "Angry",
 					"Utterance": "Ao menos não me desenhavas um bigode na cara!",
 					"UtteranceId": "TTS-CFCB4A2AC4000FBF11C0B466E69EFA74"
 				}, 
 				{
-					"CurrentState": "S8",
-					"NextState": "S9",
-					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Olha, achas que podias ir assustar o meu vizinho Albertino? É um maçador.",
-					"UtteranceId": "TTS-8FE7127D0FF21B3F2269FFA01670D852"
-				}, 
-				{
 					"CurrentState": "S7",
 					"NextState": "S8",
 					"Meaning": "-",
-					"Style": "-",
+					"Style": "Angry",
 					"Utterance": "Ao menos pagavas o funeral, seu forreta!",
 					"UtteranceId": "TTS-10AA06A830795DBAA7809ECDB9C787B6"
 				}, 
@@ -226,17 +210,33 @@
 					"CurrentState": "S8",
 					"NextState": "S9",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Vai mas é assustar espantalhos!",
-					"UtteranceId": "TTS-9BC9BE71AC7DB7A3DB04F3A0E52854D2"
+					"Style": "Request",
+					"Utterance": "Olha, podes ir assombrar a casa dos Floriais, para ver se ma vendem mais barata?",
+					"UtteranceId": "TTS-9522ECC363340200EE2D5B40B9D1E272"
+				}, 
+				{
+					"CurrentState": "S9",
+					"NextState": "S10",
+					"Meaning": "-",
+					"Style": "Angry",
+					"Utterance": "Não preocupes, malandro. Vou-te assombrar para o resto da tua vida! Muahahahahahaaaaah!",
+					"UtteranceId": "TTS-88D5322ED1E4533A519CBF65BFD962E8"
 				}, 
 				{
 					"CurrentState": "S8",
 					"NextState": "S9",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Olha, podes ir assombrar a casa dos Floriais, para ver se ma vendem mais barata?",
-					"UtteranceId": "TTS-9522ECC363340200EE2D5B40B9D1E272"
+					"Style": "Request",
+					"Utterance": "Olha, achas que podias ir assustar o meu vizinho Albertino? É um maçador.",
+					"UtteranceId": "TTS-8FE7127D0FF21B3F2269FFA01670D852"
+				}, 
+				{
+					"CurrentState": "S3",
+					"NextState": "S4",
+					"Meaning": "-",
+					"Style": "Happy",
+					"Utterance": "Não estavas à espera, pois não? Sou mesmo bom!",
+					"UtteranceId": "TTS-5C15E794B56706DDC18A43B9BBBF32F5"
 				}, 
 				{
 					"CurrentState": "S9",
@@ -250,9 +250,9 @@
 					"CurrentState": "S9",
 					"NextState": "S10",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Não preocupes, malandro. Vou-te assombrar para o resto da tua vida! Muahahahahahaaaaah!",
-					"UtteranceId": "TTS-88D5322ED1E4533A519CBF65BFD962E8"
+					"Style": "Happy",
+					"Utterance": "Adeus, amigo! Tens uma suite especial à tua espera quando te juntares a nós.",
+					"UtteranceId": "TTS-9F3EF812B0E20C87F7995503EF943475"
 				}, 
 				{
 					"CurrentState": "S9",
@@ -263,12 +263,12 @@
 					"UtteranceId": "TTS-2647E4ADAEEC8A2A69D5C25BEF29A484"
 				}, 
 				{
-					"CurrentState": "S9",
-					"NextState": "S10",
+					"CurrentState": "S2",
+					"NextState": "S3",
 					"Meaning": "-",
-					"Style": "-",
-					"Utterance": "Adeus, amigo! Tens uma suite especial à tua espera quando te juntares a nós.",
-					"UtteranceId": "TTS-9F3EF812B0E20C87F7995503EF943475"
+					"Style": "Insult",
+					"Utterance": "Tens uma grande nódoa, ó Zé Lençóis. Esqueceste-te da lixívia? ",
+					"UtteranceId": "TTS-639DB3B6574782DE22CF9F8C72352EE1"
 				}]
 		},
 	"types": [
